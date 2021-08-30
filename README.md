@@ -2,9 +2,10 @@
 ## Hello World, Cheguei!
 Prazer Renata Matsumoto.
 
-Estudante Fron-End Web e Mobile.   <img src=”E:\SoulCode\Docs\Icones”>
+Estudante Fron-End Web e Mobile.     ![image](https://user-images.githubusercontent.com/83011638/131385749-85d01544-0160-401b-b774-ae6380bf1c88.png)
+
  <div>
-  <a href="https://github.com/renata-matsumoto">
+  <a href="https://github.com/renata-matsumoto">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renata-matsumoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata-matsumoto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
