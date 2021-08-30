@@ -2,7 +2,7 @@
 ## Hello World, Cheguei!
 Prazer Renata Matsumoto.
 
-Estudante Fron-End Web e Mobile.     ![image](https://user-images.githubusercontent.com/83011638/131385749-85d01544-0160-401b-b774-ae6380bf1c88.png)
+Estudante Fron-End Web e Mobile.     ![image](https://user-images.githubusercontent.com/83011638/131385749-85d01544-0160-401b-b774-ae6380bf1c88.png, height:50, width:50)
 
  <div>
   <a href="https://github.com/renata-matsumoto">   
