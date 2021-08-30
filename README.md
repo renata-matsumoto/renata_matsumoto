@@ -2,8 +2,7 @@
 ## Hello World, Cheguei!
 Prazer Renata Matsumoto.
 
-Estudante Fron-End Web e Mobile.              <img align="center" height="150em" width="150em" src="https://user-images.githubusercontent.com/83011638/131385749-85d01544-0160-401b-b774-ae6380bf1c88.png?w=512">
-
+Estudante Fron-End Web e Mobile.             
  <div>
   <a href="https://github.com/renata-matsumoto">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renata-matsumoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +18,8 @@ Estudante Fron-End Web e Mobile.              <img align="center" height="150em"
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 </div>
-  
+   <img align="center" height="150em" width="150em" src="https://user-images.githubusercontent.com/83011638/131385749-85d01544-0160-401b-b774-ae6380bf1c88.png?w=512">
+
   ##
  
 <div> 
