@@ -1,6 +1,8 @@
 
 ## Hello World, Cheguei!
 Prazer Renata Matsumoto.
+
+Estudante Fron-End Web e Mobile.
  <div>
   <a href="https://github.com/renata-matsumoto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renata-matsumoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
