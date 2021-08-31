@@ -1,10 +1,10 @@
 
-## Hello World, Cheguei!!
-
+## Hello World, Cheguei!!     <img src="https://user-images.githubusercontent.com/83011638/131441790-497c10ff-c70f-4860-8bdb-34b66323880e.png">
+      
 Prazer Renata Matsumoto.
 
-Estudante Fron-End Web e Mobile.       <img src="https://user-images.githubusercontent.com/83011638/131441419-7c3e010c-4c36-4d69-ba12-98d4c6065252.png">
-      
+Estudante Fron-End Web e Mobile.      
+
  <div>
   <a href="https://github.com/renata-matsumoto">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renata-matsumoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
