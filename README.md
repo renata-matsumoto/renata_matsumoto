@@ -3,7 +3,11 @@
       
 Prazer Renata Matsumoto.
 
-Estudante Fron-End Web e Mobile.      
+Atualmente, estou estudando para aprimorar as minhas habilidades em programação. 
+
+Venha conhecer o que ando aprendendo.
+
+Seja Bem-Vindo !!! 
 
  <div>
   <a href="https://github.com/renata-matsumoto">   
