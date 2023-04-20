@@ -3,7 +3,7 @@
       
 Prazer, me chamo Renata Matsumoto.
 
-Atualmente, sou um desenvolvedora Back-end. Trabalho com Rubyh on Rails. 
+Sou um desenvolvedora de software. Atualmente, trabalho com Ruby on Rails, com muitas melhorias para a vida de outros desenvolvedores e atualizações de dependências. 
 
 Venha conhecer o que ando aprendendo.
 
