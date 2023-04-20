@@ -3,7 +3,7 @@
       
 Prazer, me chamo Renata Matsumoto.
 
-Atualmente, estou estudando para aprimorar as minhas habilidades em programação. 
+Atualmente, sou um desenvolvedora Back-end. Trabalho com Rubyh on Rails. 
 
 Venha conhecer o que ando aprendendo.
 
