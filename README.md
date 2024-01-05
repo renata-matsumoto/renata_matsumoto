@@ -1,9 +1,9 @@
 
-## Hello World, Cheguei!!     <img src="https://user-images.githubusercontent.com/83011638/131441790-497c10ff-c70f-4860-8bdb-34b66323880e.png">
+## Olá, seja bem vindo ao meu perfil!     <img src="https://user-images.githubusercontent.com/83011638/131441790-497c10ff-c70f-4860-8bdb-34b66323880e.png">
       
-Prazer, me chamo Renata Matsumoto.
+Me chamo Renata Matsumoto, muito prazer.
 
-Sou um desenvolvedora de software. Atualmente, trabalho com Ruby on Rails, com muitas melhorias para a vida de outros desenvolvedores e atualizações de dependências. 
+Atualmente, trabalho com Ruby on Rails, com muitas melhorias para a vida de outros desenvolvedores e atualizações de dependências. Estou me aventurando por novos caminhos e estudando novas ferramentas voltadas para infraestrutura, como o Docker, Kubernetes, Terraform entre outras.
 
 Venha conhecer o que ando aprendendo.
 
