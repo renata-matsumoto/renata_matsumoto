@@ -1,5 +1,9 @@
 
-## Olá, seja bem vindo ao meu perfil!     <img src="https://user-images.githubusercontent.com/83011638/131441790-497c10ff-c70f-4860-8bdb-34b66323880e.png">
+<div>
+      <img src="https://user-images.githubusercontent.com/83011638/131441790-497c10ff-c70f-4860-8bdb-34b66323880e.png">
+</div>
+
+## Olá, seja bem vindo ao meu perfil!     
       
 Me chamo Renata Matsumoto, muito prazer.
 
@@ -21,7 +25,7 @@ Seja Bem-Vindo !!!
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Thiago-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="40"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 </div>
