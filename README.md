@@ -12,7 +12,8 @@ Atualmente, trabalho com Ruby on Rails, com muitas melhorias para a vida de outr
 Venha conhecer o que ando aprendendo.
 
 Seja Bem-Vindo !!! 
-<script type="text/javascript" async src="https://d2umgtt5tsqx05.cloudfront.net/js/loader-scripts/f2856787-e81a-4afa-974c-e1c041073fea-loader.js" ></script>
+<script type="text/javascript" async src="https://d2umgtt5tsqx05.cloudfront.net/js/loader-scripts/0873df03-725e-48a7-85cb-dc33eededc92-loader.js" ></script>
+
 
  <div>
   <a href="https://github.com/renata-matsumoto">   
