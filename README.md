@@ -1,8 +1,6 @@
 <script type="text/javascript" async src="https://d2umgtt5tsqx05.cloudfront.net/js/loader-scripts/cf91d080-9a03-4a34-8071-ff4c0dfa9f51-loader.js" ></script>
 
 
-
-
 <div>
       <img src="https://user-images.githubusercontent.com/83011638/131441790-497c10ff-c70f-4860-8bdb-34b66323880e.png">
 </div>
