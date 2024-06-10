@@ -46,13 +46,15 @@ Passos para saber se o rollback deu certo: [Descreva os passos necessários para
   - Hoje os eventos não são enviados do PaaS para o data-lake
   - Esse PR adiciona o container do data lake
 
+## 🌟 Solução
+
+- **Qual é a sua solução para este problema?**
+  - _Escreva aqui no lugar dessa mensagem (o que seu PR está fazendo?)_
+
 ## 🧪 Como testar
 - **Descreva como é possível testar este PR para aprovação?**
   - Subir um ambiene
   - Adicionar a SA  para publicar nos tópicos
   - Validar com @liraric se já estão habilitou as subscriptions para o projeto rd-platfom-stg-01
     
-## 🌟 Solução
 
-- **Qual é a sua solução para este problema?**
-  - _Escreva aqui no lugar dessa mensagem (o que seu PR está fazendo?)_
