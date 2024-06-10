@@ -1,14 +1,16 @@
 [Mudanças propostas. O que foi feito no PR.]
 
 [Em caso de bug 🐛, contextualizar o problema e referenciar a issue] Fixes #...
-👻 Problema 
+
+
+## 👻 Problema 
 ...
 ...
 
-🚧 Setup
+## 🚧 Setup
 [O que precisa ser feito para testar o PR]
 
-🧪 Testando
+## 🧪 Testando
 Cenário de teste
 [Descrição geral do cenário]
 
@@ -27,10 +29,10 @@ Passos para acionar rollback: [Descreva os passos necessários para realizar o r
 Passos para saber se o rollback deu certo: [Descreva os passos necessários para testar a conclusão bem-sucedida do rollback.]
 [Testar um rollback de forma abrangente é tão importante quanto testar a implementação original. Garante estabilidade, confiabilidade e a capacidade de reverter rapidamente em caso de problemas.]
 
-Concerns e observações 💭
+## Concerns e observações 💭
 [Pontos importantes e que merecem atenção]
 
-Ao deployar 🚢
+## Ao deployar :shipit: 
 [Qualquer processo ou algo importante na etapa de deploy]
 
 
