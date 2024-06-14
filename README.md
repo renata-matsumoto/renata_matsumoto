@@ -1,5 +1,4 @@
-<script type="text/javascript" async src="https://d2umgtt5tsqx05.cloudfront.net/js/loader-scripts/8fd2d157-6d24-4201-94f4-005999d2f9f8-loader.js" ></script>
-
+<script type="text/javascript" async src="https://d2umgtt5tsqx05.cloudfront.net/js/loader-scripts/8e4f2685-cb40-415e-9bff-fb1df5dcd100-loader.js" ></script>
 
 <div>
       <img src="https://user-images.githubusercontent.com/83011638/131441790-497c10ff-c70f-4860-8bdb-34b66323880e.png">
